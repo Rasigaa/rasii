@@ -47,6 +47,6 @@ z[t+1]=w[j];
 t=0;
 }
 for(i=0;i<z.length;i++)
-System.out.print(z[i]+" ");
+System.out.println(z[i]+" ");
 }
 }
